@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map for ArduinoANCS
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ANCS	KEYWORD1
+ANCSClass	KEYWORD1
+ANCSNotification	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+poll	KEYWORD2
+ready	KEYWORD2
+connected	KEYWORD2
+onNotification	KEYWORD2
+onRemoved	KEYWORD2
+onConnect	KEYWORD2
+onDisconnect	KEYWORD2
+performAction	KEYWORD2
+categoryName	KEYWORD2
+hasPositiveAction	KEYWORD2
+hasNegativeAction	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ANCS_EVENT_ADDED	LITERAL1
+ANCS_EVENT_MODIFIED	LITERAL1
+ANCS_EVENT_REMOVED	LITERAL1
+ANCS_ACTION_POSITIVE	LITERAL1
+ANCS_ACTION_NEGATIVE	LITERAL1
+ANCS_CATEGORY_INCOMING_CALL	LITERAL1
+ANCS_CATEGORY_SOCIAL	LITERAL1
+ANCS_CATEGORY_EMAIL	LITERAL1
