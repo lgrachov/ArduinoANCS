@@ -11,6 +11,9 @@ to your sketch as a parsed struct.
 Built on [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) and
 tested on the **Arduino Uno R4 WiFi**.
 
+📖 **Full documentation:** [`docs/index.md`](docs/index.md) — getting started,
+API reference, how ANCS works, actions, configuration, and troubleshooting.
+
 ## Install
 
 1. Copy this folder into your Arduino `libraries/` directory
